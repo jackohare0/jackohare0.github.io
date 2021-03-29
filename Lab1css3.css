@@ -1,0 +1,17 @@
+body{
+  background-color: green;
+  text-align: center;
+}
+ul{
+  text-align: center;
+  list-style: inside;
+}
+h2{
+  font-family: monospace, Helvetica, sans-serif;
+}
+p{
+  font-family: "Georgia", Times, serif;
+}
+title{
+  text-align: center;
+}
